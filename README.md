@@ -49,6 +49,9 @@ PM10: 0 ppm
 PM2.5: 1 ug/m3
 ...
 ```
+## issues
+
+every once in a while, the airmaster starts sending something unrecognized
 
 ## see also
 
